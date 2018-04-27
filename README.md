@@ -6,3 +6,9 @@ Docker is on the rise in today's enterprise IT. It permits shipping applications
 
 ## Citation
 > R. Guidotti, J. Soldani, D. Neri, A. Brogi, D. Pedreschi *"Helping your Docker images to spread based on explainable models"*, Submitted to PKDD 2018.
+
+## Explaining Successful Dockers using Pattern Mining Analysis
+We present an analytical approach based on frequent pattern mining aimed at understanding how to improve an image to increase its popularity. The analysis  highlight that most of the Docker images follow rules which are very common but that do not lead to a consistent level of popularity, while some rules only used by a small portion of the images are very stable and predictive of high level of popularity both in terms of pulls and stars. Moreover, most of the maximum successful rules are followed only by images released by official repositories and this is not happening by chance.
+
+## Citation
+> R. Guidotti, J. Soldani, D. Neri, A. Brogi *"Explaining Successful Dockers using Pattern Mining Analysis"*, Submitted to DataMod 2018.
